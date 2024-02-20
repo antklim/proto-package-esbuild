@@ -13,5 +13,8 @@
     "module": "ESNext",
     "noEmit": true,
     "lib": ["ES2022"]
-  }
+  },
+  "exclude": [
+    "jest.config.ts"
+  ]
 }
